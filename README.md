@@ -13,4 +13,3 @@ Then I plug the TV using a adaptor
 Given I have a FAN with UK plug
 When I go to German
 THen I plug the Fan using adaptor
-
