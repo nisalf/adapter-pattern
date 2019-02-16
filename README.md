@@ -6,7 +6,7 @@ This example shows how to write a code using adapter patter as well as how to ex
 
 Given I have a TV with German plug<br/>
 Given I have an multy adapter<br/>
-When I go to Uk<br/>
+When I go to UK<br/>
 Then I plug the TV using a adaptor<br/>
 
 # Usecase 2
