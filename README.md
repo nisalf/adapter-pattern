@@ -14,4 +14,4 @@ Then I plug the TV using a adaptor<br/>
 Given I have a FAN with UK plug<br/>
 Given I have an multy adapter<br/>
 When I go to German<br/>
-THen I plug the Fan using adaptor<br/>
+Then I plug the Fan using adaptor<br/>
